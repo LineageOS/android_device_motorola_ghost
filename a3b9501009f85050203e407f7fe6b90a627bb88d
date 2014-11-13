@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_92626dd7",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 281,
+      "author": {
+        "id": 6334
+      },
+      "writtenOn": "2014-11-13T11:20:53Z",
+      "side": 0,
+      "message": "My initial guess is that no parameters are being passed to the script like it was prior to this change",
+      "revId": "a3b9501009f85050203e407f7fe6b90a627bb88d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
