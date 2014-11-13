@@ -16,6 +16,24 @@
       "revId": "a3b9501009f85050203e407f7fe6b90a627bb88d",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a122d0e_728d117b",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 281,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-13T11:41:19Z",
+      "side": 0,
+      "message": "Yes, that\u0027s correct. The parameters should have been passed here until the next change removed wifi.sh completely.",
+      "parentUuid": "1a122d0e_92626dd7",
+      "revId": "a3b9501009f85050203e407f7fe6b90a627bb88d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
