@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_f272c1ac",
+        "filename": "rootdir/etc/init.qcom.syspart_fixup.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-13T11:16:37Z",
+      "side": 1,
+      "message": "To get the wifi script to run you only actually need this portion here to be executed.",
+      "revId": "e1d64670f40caf920d83ad48346d2ab07d74cecc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
