@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "faac7902_b287a011",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 233,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-18T12:27:04Z",
+      "side": 0,
+      "message": "Hardware keys should be implemented already.",
+      "revId": "f669f07165fb73e056a8b57756fd388fd2efd939",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
