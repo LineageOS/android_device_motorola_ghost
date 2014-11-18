@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "faac7902_b2b5e0d1",
+        "filename": "device.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 221,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-18T12:29:42Z",
+      "side": 1,
+      "message": "hostapd_default.conf target doesn\u0027t exist",
+      "revId": "a492c2ef538bbc612cba206ec749d488267842c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "faac7902_92ba5cbf",
+        "filename": "device.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 222,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-18T12:29:42Z",
+      "side": 1,
+      "message": "libwpa_client is an implicit target.",
+      "revId": "a492c2ef538bbc612cba206ec749d488267842c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "faac7902_52aab471",
+        "filename": "device.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 231,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-18T12:29:42Z",
+      "side": 1,
+      "message": "Add the generic wpa_supplicant.conf target instead.",
+      "revId": "a492c2ef538bbc612cba206ec749d488267842c6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
