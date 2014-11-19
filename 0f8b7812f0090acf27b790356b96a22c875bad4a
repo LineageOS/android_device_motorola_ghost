@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "faac7902_7b4b535a",
+        "filename": "device.mk",
+        "patchSetId": 7
+      },
+      "lineNbr": 218,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-19T09:06:19Z",
+      "side": 1,
+      "message": "alphabetically libQWiFiSoftApCfg comes after hostapd",
+      "revId": "0f8b7812f0090acf27b790356b96a22c875bad4a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
