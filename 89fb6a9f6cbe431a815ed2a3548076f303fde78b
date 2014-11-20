@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dab17558_b4878e11",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-20T10:54:24Z",
+      "side": 1,
+      "message": "Do not use this library.",
+      "revId": "89fb6a9f6cbe431a815ed2a3548076f303fde78b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
