@@ -36,6 +36,23 @@
     },
     {
       "key": {
+        "uuid": "dab17558_c5789afb",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-20T21:24:39Z",
+      "side": 1,
+      "message": "Not necessary.",
+      "revId": "89fb6a9f6cbe431a815ed2a3548076f303fde78b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "dab17558_541d82bc",
         "filename": "proprietary-files.txt",
         "patchSetId": 1
@@ -64,6 +81,23 @@
       "writtenOn": "2014-11-20T11:15:07Z",
       "side": 1,
       "message": "not sure why this moved",
+      "revId": "89fb6a9f6cbe431a815ed2a3548076f303fde78b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_a57d96e9",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-20T21:24:39Z",
+      "side": 1,
+      "message": "Not necessary.",
       "revId": "89fb6a9f6cbe431a815ed2a3548076f303fde78b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
