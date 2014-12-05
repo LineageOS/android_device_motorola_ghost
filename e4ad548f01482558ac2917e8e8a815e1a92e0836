@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_ce06e21f",
+        "filename": "include/camera/CameraParametersExtraDurationTimer.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-12-05T18:16:48Z",
+      "side": 1,
+      "message": "Might be good to have an include guard here just in case as well.",
+      "revId": "e4ad548f01482558ac2917e8e8a815e1a92e0836",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_8e0cda43",
+        "filename": "include/camera/CameraParametersExtraDurationTimer.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-12-05T18:16:48Z",
+      "side": 1,
+      "message": "Why have commented out static here?",
+      "revId": "e4ad548f01482558ac2917e8e8a815e1a92e0836",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_6e09b631",
+        "filename": "include/camera/CameraParametersExtraDurationTimer.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-12-05T18:16:48Z",
+      "side": 1,
+      "message": "Why have commented out static here?",
+      "revId": "e4ad548f01482558ac2917e8e8a815e1a92e0836",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
