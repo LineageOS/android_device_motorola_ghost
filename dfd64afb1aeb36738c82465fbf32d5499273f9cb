@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "fad55976_62126564",
+        "filename": "doze/jni/jni_motoSensor.c",
+        "patchSetId": 6
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-31T10:40:53Z",
+      "side": 1,
+      "message": "Do you mean to essentially mutex around the entire disable/enable functions? That\u0027s probably a good idea, so two simultaneous enables/disables don\u0027t conflict with each other.",
+      "parentUuid": "fad55976_62a54503",
+      "revId": "dfd64afb1aeb36738c82465fbf32d5499273f9cb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fad55976_229b4dcb",
         "filename": "doze/src/org/cyanogenmod/doze/motorola/MotoSensor.java",
         "patchSetId": 6
@@ -30,6 +48,24 @@
       "writtenOn": "2015-01-31T01:01:45Z",
       "side": 1,
       "message": "Do you really need this long of a wake lock?\n\nThe android docs say that a wake sensor must acquire a 200ms wakelock.  I assume that is what the moto sensors are doing on victara and I don\u0027t think I\u0027ve had a problem being unable to process the event in that time.",
+      "revId": "dfd64afb1aeb36738c82465fbf32d5499273f9cb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_82c79944",
+        "filename": "doze/src/org/cyanogenmod/doze/motorola/MotoSensor.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-01-31T10:40:53Z",
+      "side": 1,
+      "message": "Probably not, I cribbed this code from the keyhandler in oppo/common. I\u0027ll tweak this down a bit, although this wakelock is currently unused, as the camera activation gesture doesn\u0027t seem to be working for me.",
+      "parentUuid": "fad55976_229b4dcb",
       "revId": "dfd64afb1aeb36738c82465fbf32d5499273f9cb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
