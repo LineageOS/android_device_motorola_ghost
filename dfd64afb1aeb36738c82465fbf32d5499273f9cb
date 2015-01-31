@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fad55976_62a54503",
+        "filename": "doze/jni/jni_motoSensor.c",
+        "patchSetId": 6
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 6351
+      },
+      "writtenOn": "2015-01-31T01:01:45Z",
+      "side": 1,
+      "message": "Would it be a good idea to future-proof this code and add a mutex around the get / set pair even though I don\u0027t think it matters in the current code?",
+      "revId": "dfd64afb1aeb36738c82465fbf32d5499273f9cb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fad55976_229b4dcb",
+        "filename": "doze/src/org/cyanogenmod/doze/motorola/MotoSensor.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 6351
+      },
+      "writtenOn": "2015-01-31T01:01:45Z",
+      "side": 1,
+      "message": "Do you really need this long of a wake lock?\n\nThe android docs say that a wake sensor must acquire a 200ms wakelock.  I assume that is what the moto sensors are doing on victara and I don\u0027t think I\u0027ve had a problem being unable to process the event in that time.",
+      "revId": "dfd64afb1aeb36738c82465fbf32d5499273f9cb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
