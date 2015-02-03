@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_1c232507",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-03T12:15:22Z",
+      "side": 1,
+      "message": "This doesn\u0027t even need to be here anymore.",
+      "revId": "3e38a42b9b80b51e25609516cb9158ba9fdf4db3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_7c2061f8",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-03T12:15:22Z",
+      "side": 1,
+      "message": "This can also be moved.",
+      "revId": "3e38a42b9b80b51e25609516cb9158ba9fdf4db3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_5c1d9dbc",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 181,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-02-03T12:15:22Z",
+      "side": 1,
+      "message": "These entries can be moved as well.",
+      "revId": "3e38a42b9b80b51e25609516cb9158ba9fdf4db3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
