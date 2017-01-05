@@ -79,6 +79,11 @@
         <item>255</item>
     </integer-array>
 
+    <!-- Vibrator pattern for feedback about touching a virtual key -->
+    <integer-array name="config_virtualKeyVibePattern">
+        <item>17</item>
+    </integer-array>
+
     <!-- Is the device capable of hot swapping an UICC Card -->
     <bool name="config_hotswapCapable">true</bool>
 
